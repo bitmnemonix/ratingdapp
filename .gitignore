@@ -2,7 +2,5 @@ package-lock.json
 node_modules
 *.swp
 *.swo
-*~
-/node_modules
-/build
-/coverage
+build
+coverage
